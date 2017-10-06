@@ -1,0 +1,2 @@
+serviceClass: ru.some.wm.client.GreetingService
+path: 2907C026D40680A10711BFFA7FF552C1.gwt.rpc

@@ -1,0 +1,3 @@
+# Module wm
+# RPC service class, partial path of RPC policy file
+ru.some.wm.client.GreetingService, 2907C026D40680A10711BFFA7FF552C1.gwt.rpc
